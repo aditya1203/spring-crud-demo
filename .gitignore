@@ -4,7 +4,13 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 bin/
-
+.settings/
+.classpath
+.project
+target/
+*.class
+.idea/
+.vscode/
 ### STS ###
 .apt_generated
 .classpath
